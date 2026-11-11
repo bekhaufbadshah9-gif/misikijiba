@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bekhaufbadshah9-gif.github.io/misikijiba/sitemap.xml
